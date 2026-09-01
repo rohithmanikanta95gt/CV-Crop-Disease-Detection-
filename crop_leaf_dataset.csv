@@ -1,0 +1,101 @@
+sample_id,crop,source_class,label,class_name,split,source_dataset,source_url
+H_001_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_002_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_003_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_004_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_005_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_006_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_007_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_008_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_009_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_010_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_011_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_012_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_013_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_014_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_015_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_016_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_017_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_018_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_019_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_020_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_021_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_022_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_023_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_024_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_025_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_026_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_027_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_028_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_029_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_030_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_031_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_032_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_033_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_034_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_035_TR,Tomato,Tomato___healthy,0,Healthy,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_036_VA,Tomato,Tomato___healthy,0,Healthy,val,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_037_VA,Tomato,Tomato___healthy,0,Healthy,val,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_038_VA,Tomato,Tomato___healthy,0,Healthy,val,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_039_VA,Tomato,Tomato___healthy,0,Healthy,val,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_040_VA,Tomato,Tomato___healthy,0,Healthy,val,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_041_TE,Tomato,Tomato___healthy,0,Healthy,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_042_TE,Tomato,Tomato___healthy,0,Healthy,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_043_TE,Tomato,Tomato___healthy,0,Healthy,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_044_TE,Tomato,Tomato___healthy,0,Healthy,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_045_TE,Tomato,Tomato___healthy,0,Healthy,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_046_TE,Tomato,Tomato___healthy,0,Healthy,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_047_TE,Tomato,Tomato___healthy,0,Healthy,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_048_TE,Tomato,Tomato___healthy,0,Healthy,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_049_TE,Tomato,Tomato___healthy,0,Healthy,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+H_050_TE,Tomato,Tomato___healthy,0,Healthy,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_001_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_002_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_003_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_004_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_005_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_006_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_007_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_008_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_009_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_010_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_011_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_012_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_013_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_014_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_015_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_016_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_017_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_018_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_019_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_020_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_021_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_022_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_023_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_024_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_025_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_026_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_027_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_028_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_029_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_030_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_031_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_032_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_033_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_034_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_035_TR,Tomato,Tomato___Late_blight,1,Late Blight,train,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_036_VA,Tomato,Tomato___Late_blight,1,Late Blight,val,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_037_VA,Tomato,Tomato___Late_blight,1,Late Blight,val,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_038_VA,Tomato,Tomato___Late_blight,1,Late Blight,val,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_039_VA,Tomato,Tomato___Late_blight,1,Late Blight,val,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_040_VA,Tomato,Tomato___Late_blight,1,Late Blight,val,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_041_TE,Tomato,Tomato___Late_blight,1,Late Blight,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_042_TE,Tomato,Tomato___Late_blight,1,Late Blight,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_043_TE,Tomato,Tomato___Late_blight,1,Late Blight,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_044_TE,Tomato,Tomato___Late_blight,1,Late Blight,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_045_TE,Tomato,Tomato___Late_blight,1,Late Blight,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_046_TE,Tomato,Tomato___Late_blight,1,Late Blight,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_047_TE,Tomato,Tomato___Late_blight,1,Late Blight,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_048_TE,Tomato,Tomato___Late_blight,1,Late Blight,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_049_TE,Tomato,Tomato___Late_blight,1,Late Blight,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
+D_050_TE,Tomato,Tomato___Late_blight,1,Late Blight,test,mohanty/PlantVillage,https://huggingface.co/datasets/mohanty/PlantVillage
